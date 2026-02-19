@@ -1,0 +1,27 @@
+body {background-color: antiquewhite;
+}
+h1 {text-align: center;
+    color: black;
+    font-size: 400%;
+}
+#ima1 {margin-left: 20%;
+    border-color: aqua;
+    border-width: 7px;
+    border-style: double;
+}
+
+h2 {text-align: center;
+    border-color: aquamarine;
+    border-width: 5px;
+    border-style: double;
+    margin-left: 15%;
+    padding-right: 1%;
+}
+
+h3 {text-align: center;
+    border-color: cadetblue;
+    border-width: 5px;
+    border-style: double;
+    margin-left: 15%;
+    padding-right: 1%;
+}
